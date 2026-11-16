@@ -1,3 +1,0 @@
-Model,Accuracy,Precision (weighted),Recall (weighted),F1 (weighted),Fit/feature time (s)
-TF-IDF + Logistic Regression,0.89928,0.8993087144493794,0.89928,0.8992781892635753,16.138277833000004
-GloVe mean + Logistic Regression,0.75644,0.7565887820815704,0.75644,0.7564046880338248,11.798725875000002
