@@ -7,3 +7,4 @@ gensim>=4.3.3,<5
 scipy>=1.11,<1.14
 reportlab>=4.0
 notebook>=7
+huggingface_hub
