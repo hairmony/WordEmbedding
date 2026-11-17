@@ -39,3 +39,9 @@ Term Frequency-Inverse Document Frequency model assigns importance to more infor
 ### Model II: GloVe
 
 GloVe or Global Vectors for Word Representation uses pre-trained dense word embeddings where each word is represented in vector space as a 50-dimensional vector.
+
+## References
+
+* [Maas, A. L., Daly, R. E., Pham, P. T., Huang, D., Ng, A. Y., & Potts, C. (2011). Learning word vectors for sentiment analysis. Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies, 142–150.](https://aclanthology.org/P11-1015/)
+* [Pennington, J., Socher, R., & Manning, C. D. (2014). GloVe: Global vectors for word representation. Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), 1532–1543.](https://aclanthology.org/D14-1162/)
+* [Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., Blondel, M., Prettenhofer, P., Weiss, R., Dubourg, V., Vanderplas, J., Passos, A., Cournapeau, D., Brucher, M., Perrot, M., & Duchesnay, É. (2011). Scikit-learn: Machine learning in Python. Journal of Machine Learning Research, 12, 2825–2830.](https://www.jmlr.org/papers/volume12/pedregosa11a/pedregosa11a.pdf)
